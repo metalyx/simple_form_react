@@ -1,4 +1,4 @@
-# Тестовое задание на вакансию стажер frontend для компании Maroom
+# Тестовое задание на вакансию Junior Frontend developer для компании Maroom
 
 Использованы: 
   "react",
